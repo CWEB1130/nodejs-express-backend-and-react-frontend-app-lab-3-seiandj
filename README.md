@@ -1,3 +1,6 @@
+Andrew Seigworth
+Date of Completion: 2020-04-10
+
 # nodejs-express-backend-and-react-frontend-app-lab-3-seiandj
 nodejs-express-backend-and-react-frontend-app-lab-3-seiandj created by GitHub Classroom
  (Links to an external site.)Step 1 - Create a web project and implement version control
